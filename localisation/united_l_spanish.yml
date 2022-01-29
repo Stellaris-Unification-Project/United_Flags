@@ -1,0 +1,21 @@
+﻿l_spanish:
+ FLAG_CATEGORY_masseffect:0 "Mass Effect"
+ FLAG_CATEGORY_masseffect2:0 "Mass Effect2"
+ FLAG_CATEGORY_eve_online:0 "EVE Online" 
+ FLAG_CATEGORY_sins_of_a_solar_empire:0 "SoSE"
+ FLAG_CATEGORY_sins_of_a_solar_empire2:0 "SoSE2"
+ FLAG_CATEGORY_sins_of_a_solar_empire3:0 "SoSE3"
+ FLAG_CATEGORY_agro:0 "Agro"
+ FLAG_CATEGORY_agro2:0 "Agro2"
+ FLAG_CATEGORY_agro3:0 "Agro3"
+ FLAG_CATEGORY_agro4:0 "Agro4"
+ FLAG_CATEGORY_various:0 "Various"
+ FLAG_CATEGORY_various2:0 "Various2"
+ FLAG_CATEGORY_various3:0 "Various3"
+ FLAG_CATEGORY_various4:0 "Various4"
+ FLAG_CATEGORY_various5:0 "Various5"
+ FLAG_CATEGORY_unity:0 "Unity"
+ FLAG_CATEGORY_unity2:0 "Unity2"
+ FLAG_CATEGORY_zx_color_flags:0 "zx Colored"
+
+

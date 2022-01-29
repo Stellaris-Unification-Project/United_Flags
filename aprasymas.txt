@@ -1,0 +1,20 @@
+Mod United Flags is collection of flags (340+) that I use in my games. The most of them are taken from outdated mods from the steam and renewed to the latest version of the game. 
+All credits for design should be given to authors of universes and mods:
+# Babylon 5 Project -SeeGee911 in separate category;
+# Mass Effect Theme Pack – VJ in separate category;
+# [Flags] Sins of a Solar Empire, Elite Dangerous, Phoenix Horizons, Supremacy Commander, Eve Online - Pyrrha, Star Wars Universe -  Epsilon  in separate category Various;
+# Flag of Xenomorph from Animated Xenomoph by rocket2guns;
+# Flags by Sefin in separate category.
+# Flags from "Flags : Emblems & Backgrounds" by swefpifh in categories: Various, Agro and Unity.
+# Flags from "Animated Sectoid" by rocket2guns in category various.
+
+Supported languages: Braz_port, English, French, German, Russian, Polish, Spanish.
+
+[h1] Please check out my mods:[/h1]
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=814332008] United Sci-Fi races (200+ races) [/url] 
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=850721710] United traits (70+ traits) [/url]
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=873063455] Extended Vanilla Clothes (1100+ clothes)[/url]
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1142647596] United Sci-Fi: Robots (includes extended SD portraits) [/url]
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=814854383] United Flags (various Sci-Fi and other flag collection)[/url]
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1588415009] United Small Tweaks (minor changes for gameplay)[/url]
+• [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1766559290] Better map - significantly better display of empires in the map.[/url]
